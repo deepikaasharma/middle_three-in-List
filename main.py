@@ -1,3 +1,9 @@
+"""Use slicing to create a new list called middle_three, whose contents are the middle three numbers of my_list.
+
+Note:
+
+    slicing can be done using positive or negative indicies """
+
 my_list = list(range(-100, 101))
 
 
